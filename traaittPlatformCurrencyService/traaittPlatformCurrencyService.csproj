@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <StartupObject>traaittPlatformCurrencyService.traaittPlatformCurrencyService</StartupObject>
+    <StartupObject>TrtlBotSharp.TrtlBotSharp</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
