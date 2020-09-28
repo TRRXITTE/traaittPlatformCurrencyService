@@ -9,7 +9,3 @@ dotnet publish C:\Users\TRRXITTE\Desktop\traaittPlatformCurrencyService\traaittP
 Ubuntu 18.04 x64 
 dotnet publish traaittPlatformCurrencyService.sln -c Release -r ubuntu.18.04-x64
 
-
-
-### !official download
-https://github.com/TRRXITTE/traaittPlatformCurrencyService/releases
